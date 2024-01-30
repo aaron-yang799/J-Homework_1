@@ -6,7 +6,7 @@ public class Homework_1 {
 		System.out.println("Zach Snyder - GH_ID: 118587176");
 		System.out.println("Aaron Yang - GH_ID: 146474655");
 		
-		int j = 1;
+		
 	}
 
 }
