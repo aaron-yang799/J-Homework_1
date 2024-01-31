@@ -7,6 +7,6 @@ public class Homework_1 {
 		System.out.println("Aaron Yang - GH_ID: 146474655");
 		System.out.println("Viet Nguyen - GH_ID: 157855299");
 		
-		
+		System.out.println("Test");
 	}
 }
