@@ -1,1 +1,1 @@
-# Homework 1 - CMP_SC 3330 SP24
+# Homework 1 - CMP_SCI 3330 SP24
